@@ -1,0 +1,90 @@
+[33mcommit a19b66e3db455a9b1b356d7f9bc6a1ac9522d13e[m[33m ([m[1;36mHEAD -> [m[1;32mtest-hyunwook[m[33m)[m
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sun Jun 5 13:59:02 2022 +0900
+
+    test9
+
+[33mcommit 51c5b66d3e4a987ea1be920d3dc85463e80ee6df[m[33m ([m[1;31morigin/test-branch-3[m[33m, [m[1;32mtest-branch-3[m[33m)[m
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sun Jun 5 13:44:04 2022 +0900
+
+    test8
+
+[33mcommit 2f06d7c87ce02057391bec3debde4bc716c51d32[m
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sun Jun 5 00:45:02 2022 +0900
+
+    omok question2
+
+[33mcommit 4659939bb2f38b068409dfdbd01dd2a8374bccc2[m
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sun Jun 5 00:32:45 2022 +0900
+
+    omok question
+
+[33mcommit ea096448989ad4ae8ded2e85064968fd945022fb[m
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sun Jun 5 00:13:32 2022 +0900
+
+    typing modul
+
+[33mcommit 96d71d6792570df7c7d7f6ea5db1a836da8c4a34[m[33m ([m[1;31morigin/test-branch-2[m[33m, [m[1;32mtest-branch-2[m[33m)[m
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sat Jun 4 18:51:45 2022 +0900
+
+    Add test8.py
+
+[33mcommit 0e085620ac1cabd9204047c6a9b13105444e14f7[m
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sat Jun 4 18:30:24 2022 +0900
+
+    Add test5.py
+
+[33mcommit c01acf14cdfe3547d66aab5525a18382b8fec0de[m
+Merge: 5760375 92b137a
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sat Jun 4 18:12:14 2022 +0900
+
+    Merge branch 'test-branch'
+
+[33mcommit 5760375580726f13d13f9a07d46c07c54da629bd[m
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sat Jun 4 18:11:43 2022 +0900
+
+    Add test4.py
+
+[33mcommit 92b137a7f06580d34a05732210c3a227dbb71756[m[33m ([m[1;31morigin/test-branch[m[33m, [m[1;32mtest-branch[m[33m)[m
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sat Jun 4 18:10:57 2022 +0900
+
+    Add test3.py
+
+[33mcommit bf26d19fe1d12a47d52037c63d397e49a6adaaa9[m
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sat Jun 4 17:54:38 2022 +0900
+
+    four commit
+
+[33mcommit c4f5a38859bc23d439d7be9f0723de0a4f1b04ce[m
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sat Jun 4 17:46:34 2022 +0900
+
+    three commit
+
+[33mcommit 05a5772bbc0d113d3c5952a7f42b0826f875b9d6[m
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sat Jun 4 17:34:32 2022 +0900
+
+    second commit
+
+[33mcommit e693715fd41fc7a333f5045acca8f123c19e8d23[m
+Author: HyunwookGil <gusdnr598@naver.com>
+Date:   Sat Jun 4 17:31:35 2022 +0900
+
+    initial commit
+
+[33mcommit bf32dfb056db2b8afbf2bc92a76095105a31f76c[m
+Author: HyunwookGil <106861372+HyunwookGil@users.noreply.github.com>
+Date:   Sat Jun 4 16:20:03 2022 +0900
+
+    Initial commit
